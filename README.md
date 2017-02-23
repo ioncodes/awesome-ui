@@ -1,7 +1,7 @@
 # Awesome UI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-> _A curated list of websites and tools for building an awesome UI._
+> _A curated list of websites, libraries, frameworks and guidelines for building an awesome UI._
 
 
 
